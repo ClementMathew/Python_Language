@@ -7,4 +7,4 @@ Gec Wayanad
 
 # Hello
 
-print("hello")
+print("Hello")
