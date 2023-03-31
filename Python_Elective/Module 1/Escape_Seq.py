@@ -1,0 +1,7 @@
+print("Hello Clement")
+print("Hello \b Clement")
+print("Hello \n Clement")
+print("Hello \t Clement")
+print("Hello \\ Clement")
+print("Hello \' Clement")
+print("Hello \" Clement")
