@@ -28,3 +28,20 @@ print(3 in first)
 first[3] = 10
 print(first)
 
+first.append(8)
+print(first)
+
+first.extend(third)
+print(first)
+
+first.insert(5, 7)
+print(first)
+
+first.pop()
+print(first)
+
+first.pop(6)
+print(first)
+
+first.sort()
+print(first)
