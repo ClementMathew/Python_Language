@@ -9,4 +9,3 @@ print(meats)
 food = meats + fruits
 
 print(food)
-
