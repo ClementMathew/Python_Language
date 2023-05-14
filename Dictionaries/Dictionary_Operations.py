@@ -16,3 +16,16 @@ print(info.pop("job",None))
 print(info.pop("Occupation"))
 
 print(info)
+
+print(len(info))
+
+print(info["Name"])
+
+print(list(info.keys()))
+
+print(list(info.values()))
+
+print(list(info.items()))
+
+info.clear()
+print(info)
