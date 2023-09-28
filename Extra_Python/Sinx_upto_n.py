@@ -1,5 +1,5 @@
 import math
- 
+
 # Create sine function
 
 def sin( x, n):
