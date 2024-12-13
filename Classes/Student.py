@@ -63,4 +63,4 @@ print(s.getScore(2))
 print(s.getScore(3))
 
 print(s.getAverage())
-print(s.getHighScore())
+print(s.getHighScore()) 

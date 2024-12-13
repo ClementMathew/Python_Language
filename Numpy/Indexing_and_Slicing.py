@@ -40,3 +40,4 @@ print(arr3d[1, 0])
 x = arr3d[1]
 print(x)
 print(x[0])
+
